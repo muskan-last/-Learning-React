@@ -1,9 +1,10 @@
 import '../App.css'
-const ITEMS = ({ foodItem }) => {
+const ITEMS = ({ foodItem, handleBuyButtonClicked }) => {
+
   return (
     <li className="list-group-item">{foodItem}
       <button className="btn-item btn btn-info"
-        onClick={() => console.log(`${foodItem} being bought`)}
+        onClick={handleBuyButtonClicked}
 
       >Buy</button>
     </li>
