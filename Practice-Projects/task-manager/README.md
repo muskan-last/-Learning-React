@@ -1,6 +1,5 @@
 
 
-### ✅ **README.md for React Task Manager**
 
 # React Task Manager
 
