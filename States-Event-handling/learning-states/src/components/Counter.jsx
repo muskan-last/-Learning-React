@@ -14,7 +14,6 @@ const Counter = () => {
       <h1>Counter 2 : {rdata}</h1>
       <button onClick={() => { setReverseCounter(rdata - 1) }}>Reverse Counter</button>
     </div>
-
   );
 }
 

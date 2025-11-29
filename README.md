@@ -29,7 +29,7 @@ This repository is created to track my progress as I learn **React**, understand
  🚀 How to Run Any Project
 
 1. Clone the repository:
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/muskan-last/-Learning-React.git)
+git clone(https://github.com/muskan-last/-Learning-React.git)
 
 2. Go to the project folder:
 
