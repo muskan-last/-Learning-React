@@ -1,16 +1,71 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# React Task Manager
 
-## React Compiler
+A simple and efficient **Task Manager Application** built using **React.js**.  
+This app allows users to add, edit, delete, and manage their daily tasks with a clean UI and smooth functionality.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ➕ Add new tasks  
+- 🗑️ Delete tasks    
+- ✅ Mark tasks as completed  
+- 🔄 Persistent storage using localStorage  
+- 🎨 Responsive and minimal UI  
+- ⚡ Built with React Hooks & functional components  
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**   
+- **CSS /Styled Components**  
+- **LocalStorage**
+
+---
+
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository  
+   https://github.com/Maahi-0/-Learning-React.git
+
+2. Navigate into the project
+
+   ```bash
+   cd project-practice
+   cd task-manager
+   ```
+
+3. Install dependencies
+
+   ```bash
+   npm install
+   ```
+
+4. Run the development server
+
+   ```bash
+   npm start
+   ```
+
+---
+
+## 📌 Usage
+
+* Type a task into the input box and click **Add**
+* Mark tasks as **Done**
+* Edit or delete tasks
+* Tasks auto-save in your browser (localStorage)
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome!
+For major changes, please open an issue first to discuss what you would like to change.
+
+---
