@@ -1,32 +1,32 @@
-h1 {
-  font-weight: 700;
-  font-size: 45px;
-  margin: 10px;
-  margin-bottom: 20px;
-}
+ h1 {
+   font-weight: 700;
+   font-size: 45px;
+   margin: 10px;
+   margin-bottom: 20px;
+ }
 
-input {
-  width: 100%;
-  justify-content: center;
-  padding: 10px;
-  border-radius: 20px;
-  border-style: double;
-  background-color: white;
-}
+ input {
+   width: 100%;
+   justify-content: center;
+   padding: 10px;
+   border-radius: 20px;
+   border-style: double;
+   background-color: white;
+ }
 
-.items-conatiner {
-  text-align: center;
-}
+ .items-conatiner {
+   text-align: center;
+ }
 
-.kg-row {
-  margin: 10px 5px;
-}
+ .kg-row {
+   margin: 10px 5px;
+ }
 
-.to-do-container {
-  text-align: center;
-}
+ .to-do-container {
+   text-align: center;
+ }
 
-.todo {
+ /*.todo {
   margin-bottom: 30px;
   width: 100%;
 }
@@ -38,4 +38,4 @@ input {
   font-weight: 600;
   border: 3px solid black;
   border-radius: 10px;
-}
+} */
