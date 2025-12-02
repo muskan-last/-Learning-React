@@ -1,0 +1,41 @@
+ h1 {
+   font-weight: 700;
+   font-size: 45px;
+   margin: 10px;
+   margin-bottom: 20px;
+ }
+
+ input {
+   width: 100%;
+   justify-content: center;
+   padding: 10px;
+   border-radius: 20px;
+   border-style: double;
+   background-color: white;
+ }
+
+ .items-conatiner {
+   text-align: center;
+ }
+
+ .kg-row {
+   margin: 10px 5px;
+ }
+
+ .to-do-container {
+   text-align: center;
+ }
+
+ /*.todo {
+  margin-bottom: 30px;
+  width: 100%;
+}
+
+.container {
+  padding: 20px;
+  border: 1px solid rgba(126, 126, 133, 0.8);
+  background-color: rgb(190, 202, 206);
+  font-weight: 600;
+  border: 3px solid black;
+  border-radius: 10px;
+} */
